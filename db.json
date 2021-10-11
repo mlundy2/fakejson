@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Heart Attack",
+        "artist": "Demi Lovato",
+        "file_location": "music/Heart Attack",
+        "file_type": ".mp3"
+    },
+    {
+        "title": "Fantasy",
+        "artist": "Earth Wind & Fire",
+        "file_location": "music/Fantasy",
+        "file_type": ".mp3"
+    },
+    {
+        "title": "Off The Wall",
+        "artist": "Michael Jackson",
+        "file_location": "music/Off The Wall",
+        "file_type": ".mp3"
+    }
+]
